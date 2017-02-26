@@ -1,0 +1,5 @@
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task5\bin\Debug\Task5.exe.config
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task5\bin\Debug\Task5.exe
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task5\bin\Debug\Task5.pdb
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task5\obj\Debug\Task5.exe
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task5\obj\Debug\Task5.pdb

@@ -1,0 +1,5 @@
+D:\Tarasov\C#\Day3\Lesson3\Test3\bin\Debug\Test3.exe.config
+D:\Tarasov\C#\Day3\Lesson3\Test3\bin\Debug\Test3.exe
+D:\Tarasov\C#\Day3\Lesson3\Test3\bin\Debug\Test3.pdb
+D:\Tarasov\C#\Day3\Lesson3\Test3\obj\Debug\Test3.exe
+D:\Tarasov\C#\Day3\Lesson3\Test3\obj\Debug\Test3.pdb

@@ -1,0 +1,7 @@
+D:\Study\IT Academy Step\C#\Day2 -=Entrance=-\Lesson2\Task1\bin\Debug\Task1.exe.config
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task1\bin\Debug\Task1.exe.config
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task1\bin\Debug\Task1.exe
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task1\bin\Debug\Task1.pdb
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task1\obj\Debug\Task1.exe
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task1\obj\Debug\Task1.pdb

@@ -1,0 +1,15 @@
+D:\Tarasov\C#\Day2\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+D:\Tarasov\C#\Day2\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+D:\Tarasov\C#\Day2\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+D:\Tarasov\C#\Day2\Lesson2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Day2\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+D:\Tarasov\C#\Day2\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+D:\Study\IT Academy Step\C#\Day2 -=Entrance=-\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+D:\Study\IT Academy Step\C#\Day2 -=Entrance=-\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+D:\Study\IT Academy Step\C#\Day2 -=Entrance=-\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+d:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache

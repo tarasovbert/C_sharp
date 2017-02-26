@@ -1,0 +1,2 @@
+D:\Tarasov\C#\Day4\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+D:\Tarasov\C#\Day4 -=Class=-\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config

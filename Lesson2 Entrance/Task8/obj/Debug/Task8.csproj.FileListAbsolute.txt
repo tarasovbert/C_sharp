@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task8\bin\Debug\Task8.exe.config
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task8\bin\Debug\Task8.exe
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task8\bin\Debug\Task8.pdb
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task8\obj\Debug\Task8.exe
+D:\Study\IT Academy Step\C#\Day2 Entrance\Lesson2\Task8\obj\Debug\Task8.pdb

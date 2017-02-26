@@ -1,0 +1,9 @@
+D:\Tarasov\C#\Day3\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+D:\Tarasov\C#\Day3\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+D:\Tarasov\C#\Day3\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+D:\Tarasov\C#\Day3\Lesson3\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Day3\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+D:\Tarasov\C#\Day3\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
+D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
