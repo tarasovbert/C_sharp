@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Matrix\bin\Debug\Matrix.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Matrix\bin\Debug\Matrix.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Matrix\bin\Debug\Matrix.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Matrix\obj\Debug\Matrix.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Matrix\obj\Debug\Matrix.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache

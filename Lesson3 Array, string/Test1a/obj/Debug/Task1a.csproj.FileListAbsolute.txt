@@ -10,3 +10,6 @@ D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Test1a\obj\Debug\Test1a.p
 D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Test1a\bin\Debug\Test1a.exe
 D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Test1a\bin\Debug\Test1a.pdb
 D:\Study\IT Academy Step\C#\Day3 Array, string\Lesson3\Test1a\obj\Debug\Task1a.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Test1a\bin\Debug\Test1a.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Test1a\obj\Debug\Test1a.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Test1a\obj\Debug\Test1a.pdb

@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task7\bin\Debug\Task7.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task7\bin\Debug\Task7.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task7\bin\Debug\Task7.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task7\obj\Debug\Task7.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task7\obj\Debug\Task7.pdb

@@ -1,0 +1,5 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task3\bin\Debug\Task3.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task3\bin\Debug\Task3.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task3\bin\Debug\Task3.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task3\obj\Debug\Task3.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson3 Array, string\Task3\obj\Debug\Task3.pdb

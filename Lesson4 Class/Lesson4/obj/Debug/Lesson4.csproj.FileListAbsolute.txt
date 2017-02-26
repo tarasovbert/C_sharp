@@ -1,2 +1,8 @@
 D:\Tarasov\C#\Day4\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
 D:\Tarasov\C#\Day4 -=Class=-\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Lesson4\bin\Debug\Lesson4.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Lesson4\bin\Debug\Lesson4.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Lesson4\bin\Debug\Lesson4.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Lesson4\obj\Debug\Lesson4.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Lesson4\obj\Debug\Lesson4.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson4 Class\Lesson4\obj\Debug\Lesson4.pdb
