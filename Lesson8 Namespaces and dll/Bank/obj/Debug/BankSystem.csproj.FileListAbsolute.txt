@@ -1,0 +1,5 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Bank\obj\Debug\Bank.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Bank\obj\Debug\Bank.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Bank\bin\Debug\Bank.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Bank\bin\Debug\Bank.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Bank\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache

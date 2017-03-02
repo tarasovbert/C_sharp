@@ -24,7 +24,7 @@ using System.Threading.Tasks;
 
 namespace Matrix
 {
-    class Matrix
+    internal class Matrix
     {
         #region FIELDS
         int[,] matrix;

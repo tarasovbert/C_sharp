@@ -1,0 +1,1 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson6 Operators Overloading\Lesson6 Operators Overloading\bin\Debug\Lesson6 Operators Overloading.exe.config

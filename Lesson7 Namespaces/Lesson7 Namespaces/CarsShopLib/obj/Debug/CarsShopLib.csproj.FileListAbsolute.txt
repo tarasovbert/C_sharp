@@ -1,0 +1,5 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\bin\Debug\CarsShopLib.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\bin\Debug\CarsShopLib.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\obj\Debug\CarsShopLib.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\obj\Debug\CarsShopLib.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\obj\Debug\CarsShopLib.csprojResolveAssemblyReference.cache

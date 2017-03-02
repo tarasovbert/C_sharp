@@ -1,0 +1,5 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\Lesson7\bin\Release\Lesson7.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\Lesson7\bin\Release\Lesson7.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\Lesson7\bin\Release\Lesson7.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\Lesson7\obj\Release\Lesson7.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\Lesson7\obj\Release\Lesson7.pdb

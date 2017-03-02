@@ -1,0 +1,4 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\bin\Release\CarsShopLib.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\bin\Release\CarsShopLib.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\obj\Release\CarsShopLib.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson7 Namespaces\Lesson7 Namespaces\CarsShopLib\obj\Release\CarsShopLib.pdb
