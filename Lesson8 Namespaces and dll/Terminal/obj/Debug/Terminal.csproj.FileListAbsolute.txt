@@ -7,3 +7,11 @@ D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\bin\Debug\Bank.pd
 D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
 D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\obj\Debug\Terminal.exe
 D:\Tarasov\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\obj\Debug\Terminal.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\bin\Debug\Terminal.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\bin\Debug\Terminal.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\bin\Debug\Terminal.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\bin\Debug\Bank.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\bin\Debug\Bank.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\obj\Debug\Terminal.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson8 Namespaces and dll\Terminal\obj\Debug\Terminal.pdb

@@ -1,19 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BankSystem
 {
     public class Bank
     {
-        static int quantityOfClients = 0;
+        #region FIELDS 
+        private static int quantityOfClients = 0;
+        private static int quantityOfAccounts = 0;
         private Client[] clients = new Client[quantityOfClients];
         private string bankName;
+        #endregion
 
         #region PROPERTIES
-
         public string BankName
         {
             get { return bankName; }
@@ -26,19 +24,27 @@ namespace BankSystem
             set { quantityOfClients = value; }
         }
 
+        public static int QuantityOfAccounts
+        {
+            get { return quantityOfAccounts; }
+            set { quantityOfAccounts = value; }
+        }
+        #endregion
+
+        #region CTORS
         public Bank(string bankName)
         {
             this.bankName = bankName;
         }
+        #endregion
 
-        #endregion       
-
+        #region METHODS
         public void AddClient(Client newClient)
         {
-            quantityOfClients++;         
+            quantityOfClients++;
             int length = clients.Length;
-            if (quantityOfClients >= length)
-                Array.Resize(ref clients, quantityOfClients + 1);
+            if (quantityOfClients > length)
+                Array.Resize(ref clients, quantityOfClients);
             clients[length] = newClient;
         }
 
@@ -47,10 +53,24 @@ namespace BankSystem
             return clients[index];
         }
 
+        public Client GetClient(string login, out Client client)
+        {
+            client = null;
+            for (int i = 0; i < quantityOfClients; i++)
+            {
+                if (login == clients[i].Login)
+                {
+                    client = clients[i];
+                    break;
+                }
+            }
+            return client;
+        }
+
         public bool CheckUniquenessOfLogin(string Login)
         {
             int length = clients.Length;
-            for (int i = 0; i < length - 1; i++)            
+            for (int i = 0; i < length - 1; i++)
                 if (clients[i].Login == Login)
                     return false;
             return true;
@@ -62,11 +82,7 @@ namespace BankSystem
                 return false;
             return true;
         }
-        
-
-
     }
-
-
+    #endregion
 }
 

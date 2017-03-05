@@ -10,3 +10,6 @@ i:\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\obj\Debug\Lesson5.pdb
 i:\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\bin\Debug\Lesson5.exe
 i:\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\bin\Debug\Lesson5.pdb
 i:\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\obj\Debug\Lesson5.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\bin\Debug\Lesson5.exe.config
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\obj\Debug\Lesson5.exe
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson5 Exceptions\Lesson5\obj\Debug\Lesson5.pdb

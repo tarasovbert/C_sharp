@@ -1,27 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace BankSystem
 {
     public class Client
     {
+        #region FIELDS
         private int number;
         private string name;
         private string surname;
         private string passportNumber;
         private string login;
         private string password;
-        const int quantityOfAccounts = 2;
-        Account[] accounts;
+        const int quantityOfAccounts = 2;        
+        private Account[] accounts;
+        #endregion
 
+        #region CTORS
         public Client()
         {
             number = Bank.QuantityOfClients + 1;
+            accounts = new Account[quantityOfAccounts];
+            for (int i = 0; i < quantityOfAccounts; i++)
+            {
+                accounts[i] = new Account();
+            }
+            accounts[0].Opened = true;
         }
+        #endregion
 
+        #region PROPERTIES
         public int Number
         {
             get { return number; }
@@ -55,14 +61,36 @@ namespace BankSystem
             get { return password; }
             set { password = value; }
         }
-
-        public void OpenAccounts()
+        
+        public Account[] Accounts
         {
-            accounts = new Account[quantityOfAccounts];
+            get { return accounts; }
+            set { accounts = value; }
         }
 
+        public int QuantityOfAccounts
+        {
+            get { return quantityOfAccounts; }
+        }
+        #endregion
 
+        #region METHODS
+        public bool MultiAccount()
+        {
+            if (quantityOfAccounts > 1 && accounts[1].Opened == true)
+                return true;
+            return false;
+        }
 
-
+        public int NextAccIndex()
+        {
+            for (int i = 0; i < quantityOfAccounts; i++)
+            {
+                if (accounts[i].Opened == false)
+                    return i;
+            }
+            return 0;
+        }
+        #endregion
     }
 }

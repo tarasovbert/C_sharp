@@ -1,16 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using BankSystem.Helpers;
+﻿using BankSystem.Helpers;
 
 namespace BankSystem
 {
     public class Account
     {
-        private decimal interestRate;
-        private long accountNumber;
+        #region FIELDS 
+        decimal interestRate;
+        private decimal balance = 0;
+        long accountNumber;
+        bool opened = false;
+        #endregion
+
+        #region CTORS
+        public Account()
+        {
+            Bank.QuantityOfAccounts++;
+            accountNumber = Bank.QuantityOfAccounts;
+            interestRate = (decimal)Randomer.NextDouble(1, 5) / 100;
+        }
+        #endregion
+
+        #region PROPERTIES
+        public decimal InterestRate
+        {
+            get { return interestRate; }
+            set { interestRate = value; }
+        }
 
         public long AccountNumber
         {
@@ -18,10 +33,17 @@ namespace BankSystem
             set { accountNumber = value; }
         }
 
-        public Account(string userName)
+        public bool Opened
         {
-            accountNumber = userName.GetHashCode();
-            interestRate = (decimal)Randomer.NextDouble(1, 5);
+            get { return opened; }
+            set { opened = value; }
         }
+
+        public decimal Balance
+        {
+            get { return balance; }
+            set { balance = value; }
+        }
+        #endregion
     }
 }
