@@ -1,0 +1,9 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\bin\Debug\Lesson10 Inheritance.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\bin\Debug\Lesson10 Inheritance.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\bin\Debug\Lesson10 Inheritance.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\obj\Debug\Lesson10 Inheritance.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\obj\Debug\Lesson10 Inheritance.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\obj\Debug\Lesson10 Inheritance.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\bin\Debug\Lesson10 Inheritance.exe.config
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\obj\Debug\Lesson10 Inheritance.exe
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Lesson10 Inheritance\obj\Debug\Lesson10 Inheritance.pdb

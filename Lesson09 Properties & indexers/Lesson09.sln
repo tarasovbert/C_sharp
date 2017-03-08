@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9 Properties. Indexers", "Lesson9\Lesson9 Properties. Indexers.csproj", "{DE805AFB-252F-4CF8-8E4C-E007FC55BD98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartArray", "SmartArray\SmartArray.csproj", "{A8873E4D-768A-4B36-9FF3-4C873875129E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{776FF537-A5B0-427D-9573-60063FA1C0F7}"
+	ProjectSection(SolutionItems) = preProject
+		Task for Map.txt = Task for Map.txt
+		Task for SmartArray.txt = Task for SmartArray.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{23E3B600-AB77-4363-BA50-ED21A152C43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE805AFB-252F-4CF8-8E4C-E007FC55BD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE805AFB-252F-4CF8-8E4C-E007FC55BD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE805AFB-252F-4CF8-8E4C-E007FC55BD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE805AFB-252F-4CF8-8E4C-E007FC55BD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8873E4D-768A-4B36-9FF3-4C873875129E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8873E4D-768A-4B36-9FF3-4C873875129E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8873E4D-768A-4B36-9FF3-4C873875129E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8873E4D-768A-4B36-9FF3-4C873875129E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E3B600-AB77-4363-BA50-ED21A152C43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E3B600-AB77-4363-BA50-ED21A152C43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E3B600-AB77-4363-BA50-ED21A152C43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E3B600-AB77-4363-BA50-ED21A152C43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
