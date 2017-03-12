@@ -7,9 +7,9 @@ namespace Lesson10_Inheritance
 {
     public class Car
     {
-        private double Id;
-
-        Spare sp;
+        
+        
+        Spare sp = new Spare();
         public string Name { get; set; }
 
         public override string ToString()

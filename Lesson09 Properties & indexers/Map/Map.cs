@@ -69,15 +69,22 @@ namespace Map
         // Исключения - System.ArgumentException: Элемент с таким ключом уже существует в словаре
         public void Add(string key, double value)
         {
-            for (int i = 0; i < Keys.Length; i++)
+            if (Keys.Length == 0)
             {
+                Array.Resize(ref Keys, 1);
+                Array.Resize(ref Values, 1);
+                Keys[0] = key;
+                Values[0] = value;
+                return;
+            }
+            for (int i = 0; i < Keys.Length; i++)
                 if (Keys[i] == key)
                     throw new ArgumentException("Such key already exists in the map");
-                Array.Resize(ref Keys, Keys.Length + 1);
-                Keys[Keys.Length - 1] = key;
-                Array.Resize(ref Values, Values.Length + 1);
-                Values[Values.Length - 1] = value;
-            }
+
+            Array.Resize(ref Keys, Keys.Length + 1);
+            Keys[Keys.Length - 1] = key;
+            Array.Resize(ref Values, Values.Length + 1);
+            Values[Values.Length - 1] = value;
         }
 
         // Сводка:
@@ -126,37 +133,39 @@ namespace Map
         // Возвращает: true, если элемент успешно найден и удален, в противном случае — false. 
         // Этот метод возвращает значение false, если ключ key не найден в словаре
         public bool Remove(string key)
+        {            
+            for (int i = 0; i < Keys.Length; i++)
+                if (Keys[i] == key)
+                {
+                    while (i < Keys.Length - 1)
+                    {
+                        Keys[i] = Keys[i + 1];
+                        Values[i] = Values[i + 1];
+                        i++;
+                    }
+                    Array.Resize(ref Keys, Keys.Length - 1);
+                    Array.Resize(ref Values, Values.Length - 1);
+                    return true;
+                }
+                return false;
+        }
+
+        // Сводка:
+        // Получает значение, связанное с указанным ключом.
+        // Параметры: key - Ключ значения, которое необходимо получить.
+        // value - Возвращаемое значение, связанное с указанном ключом, если он найден;
+        // в противном случае — значение по умолчанию для данного типа параметра value.
+        // Этот параметр передается неинициализированным.
+        public bool TryGetValue(string key, out double value)
         {
             for (int i = 0; i < Keys.Length; i++)
                 if (Keys[i] == key)
                 {
-                    string[] CopyKeys = new string[Keys.Length];
-                    double[] CopyValues = new double[Values.Length];
-                    Array.Copy(Keys, CopyKeys, Keys.Length);
-                    Array.Copy(Values, CopyValues, Values.Length);
-                    Array.Resize(ref Keys, Keys.Length - 1);
-                    Array.Resize(ref Values, Values.Length - 1);
-                    for (int j = 0; j < CopyKeys.Length; j++)
-                    {
-                        if (CopyKeys[j] != key)
-                        {
-                            Keys[i] = CopyKeys[i];
-                            Values[i] = CopyValues[i];
-                        }
-                    }
+                    value = Values[i];
                     return true;
                 }
+            value = new double();
             return false;
         }
-
-        // Сводка:
-        //     Получает значение, связанное с указанным ключом.
-        // Параметры:
-        //   key:
-        //     Ключ значения, которое необходимо получить.
-        //   value:
-        //     Возвращаемое значение, связанное с указанном ключом, если он найден; в противном 
-        //случае — значение по умолчанию для данного типа параметра value. Этот параметр передается неинициализированным.
-        //   public bool TryGetValue(string key, out double value);
     }
 }

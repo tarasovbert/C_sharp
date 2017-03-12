@@ -12,6 +12,8 @@ namespace Lesson10_Inheritance
         {
             Car car = new Car() { Name = "BMW" };
             Console.WriteLine(car);//car.ToString()
+            Car truck = new Truck();
+            
             
     }
     }

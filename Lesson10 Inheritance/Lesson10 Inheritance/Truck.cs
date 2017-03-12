@@ -7,5 +7,6 @@ namespace Lesson10_Inheritance
 {
     public class Truck:Car
     {
+        public int Load { get; set; }
     }
 }

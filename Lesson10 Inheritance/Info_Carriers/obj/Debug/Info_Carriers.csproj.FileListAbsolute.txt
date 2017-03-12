@@ -1,0 +1,5 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Info_Carriers\bin\Debug\Info_Carriers.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Info_Carriers\bin\Debug\Info_Carriers.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Info_Carriers\obj\Debug\Info_Carriers.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Info_Carriers\obj\Debug\Info_Carriers.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson10 Inheritance\Info_Carriers\obj\Debug\Info_Carriers.csprojResolveAssemblyReference.cache

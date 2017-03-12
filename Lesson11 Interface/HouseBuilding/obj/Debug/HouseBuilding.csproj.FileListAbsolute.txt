@@ -1,0 +1,5 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson11 Interface\HouseBuilding\bin\Debug\HouseBuilding.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson11 Interface\HouseBuilding\bin\Debug\HouseBuilding.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson11 Interface\HouseBuilding\obj\Debug\HouseBuilding.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson11 Interface\HouseBuilding\obj\Debug\HouseBuilding.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson11 Interface\HouseBuilding\obj\Debug\HouseBuilding.csprojResolveAssemblyReference.cache

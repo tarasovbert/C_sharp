@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lesson10_Inheritance
 {
-    public class Spare
+    public class Spare:Car
     {
     }
 }
