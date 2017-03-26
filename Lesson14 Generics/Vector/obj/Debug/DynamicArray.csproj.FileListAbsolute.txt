@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Vector\bin\Debug\Vector.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Vector\obj\Debug\Vector.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Vector\obj\Debug\Vector.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Vector\bin\Debug\Vector.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Vector\bin\Debug\Vector.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Vector\obj\Debug\DynamicArray.csprojResolveAssemblyReference.cache

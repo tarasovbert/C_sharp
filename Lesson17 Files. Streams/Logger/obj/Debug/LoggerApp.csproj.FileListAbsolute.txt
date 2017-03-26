@@ -1,0 +1,8 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\Logger.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\Logger.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\Logger.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\LoggerDLL.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\LoggerDLL.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\LoggerApp.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\Logger.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\Logger.pdb

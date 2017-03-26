@@ -1,0 +1,3 @@
+21.03.2017 21:14:03 st Error Hi, logger! 
+st 21.03.2017 Hi, logger!
+st 21.03.2017 Hi, logger!

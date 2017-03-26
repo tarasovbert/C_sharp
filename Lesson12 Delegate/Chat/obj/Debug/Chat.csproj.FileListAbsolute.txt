@@ -1,0 +1,1 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\Chat\bin\Debug\Chat.exe.config

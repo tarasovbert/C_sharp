@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lesson11_Interface
 {
-    class Car :ICloneable //: IComparer        
+    class Car : ICloneable, IBase, IDerived, IComparable, IComparer //: IComparer        
     {
 
         RadioInfo radio;
@@ -34,8 +35,12 @@ namespace Lesson11_Interface
         public object Clone()
         {
             //return this.MemberwiseClone();//shallow copying     
-            return new Car() { Price = this.Price, Name = this.Name,
-                radio = new RadioInfo() { Type = radio.Type } };     
+            return new Car()
+            {
+                Price = this.Price,
+                Name = this.Name,
+                radio = new RadioInfo() { Type = radio.Type }
+            };
         }
 
         //public int CompareTo(object obj)
@@ -48,6 +53,19 @@ namespace Lesson11_Interface
         public override string ToString()
         {
             return String.Format("{0} - {1} - {2}.", Name, Price, radio.Type);
+        }
+
+        string IBase.Work() { return "IBase.Work()"; }
+        string IDerived.Work() { return "IDerived.Work()"; }
+
+        public int CompareTo(object obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int Compare(object x, object y)
+        {
+            throw new NotImplementedException();
         }
     }
 }

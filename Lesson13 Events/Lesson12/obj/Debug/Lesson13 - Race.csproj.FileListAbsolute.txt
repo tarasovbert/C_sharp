@@ -1,0 +1,6 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson13 Events\Lesson12\bin\Debug\Lesson12.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson13 Events\Lesson12\bin\Debug\Lesson12.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson13 Events\Lesson12\bin\Debug\Lesson12.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson13 Events\Lesson12\obj\Debug\Lesson13 - Race.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson13 Events\Lesson12\obj\Debug\Lesson12.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson13 Events\Lesson12\obj\Debug\Lesson12.pdb

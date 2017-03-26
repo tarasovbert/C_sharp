@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\EventChat\bin\Debug\EventChat.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\EventChat\bin\Debug\EventChat.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\EventChat\bin\Debug\EventChat.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\EventChat\obj\Debug\EventChat.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\EventChat\obj\Debug\EventChat.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\EventChat\obj\Debug\EventChat.pdb

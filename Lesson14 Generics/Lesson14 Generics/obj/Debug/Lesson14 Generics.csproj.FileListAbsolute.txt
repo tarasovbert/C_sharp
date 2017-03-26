@@ -1,0 +1,12 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\bin\Debug\Lesson14 Generics.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\bin\Debug\Lesson14 Generics.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\bin\Debug\Lesson14 Generics.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\obj\Debug\Lesson14 Generics.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\obj\Debug\Lesson14 Generics.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\obj\Debug\Lesson14 Generics.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\bin\Debug\Lesson14 Generics.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\obj\Debug\Lesson14 Generics.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\obj\Debug\Lesson14 Generics.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\bin\Debug\Lesson14 Generics.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\bin\Debug\Lesson14 Generics.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Lesson14 Generics\obj\Debug\Lesson14 Generics.csprojResolveAssemblyReference.cache

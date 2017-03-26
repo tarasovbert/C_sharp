@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Tuples\bin\Debug\Tuples.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Tuples\bin\Debug\Tuples.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Tuples\bin\Debug\Tuples.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Tuples\obj\Debug\Tuples.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\Tuples\obj\Debug\Tuples.pdb

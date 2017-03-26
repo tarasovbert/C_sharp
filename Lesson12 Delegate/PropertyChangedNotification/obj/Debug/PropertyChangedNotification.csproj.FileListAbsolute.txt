@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\PropertyChangedNotification\bin\Debug\PropertyChangedNotification.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\PropertyChangedNotification\bin\Debug\PropertyChangedNotification.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\PropertyChangedNotification\bin\Debug\PropertyChangedNotification.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\PropertyChangedNotification\obj\Debug\PropertyChangedNotification.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\PropertyChangedNotification\obj\Debug\PropertyChangedNotification.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson12 Delegate\PropertyChangedNotification\obj\Debug\PropertyChangedNotification.pdb

@@ -1,0 +1,24 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson15\Lesson15\bin\Debug\Lesson15.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson15\Lesson15\bin\Debug\Lesson15.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson15\Lesson15\bin\Debug\Lesson15.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson15\Lesson15\obj\Debug\Drunkard.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson15\Lesson15\obj\Debug\Lesson15.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson15\Lesson15\obj\Debug\Lesson15.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Lesson15.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Lesson15.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Drunkard.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.pdb
+d:\Тарасов\Разное\ИТ\Study\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.exe.config
+d:\Тарасов\Разное\ИТ\Study\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Lesson15.exe
+d:\Тарасов\Разное\ИТ\Study\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Lesson15.pdb
+d:\Тарасов\Разное\ИТ\Study\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.exe
+d:\Тарасов\Разное\ИТ\Study\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.pdb
+d:\Тарасов\Разное\ИТ\Study\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Drunkard.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Lesson15.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Lesson15.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson15 Collections\Lesson15\bin\Debug\Lesson15.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson15 Collections\Lesson15\obj\Debug\Drunkard.csprojResolveAssemblyReference.cache

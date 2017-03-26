@@ -23,7 +23,7 @@ namespace Lesson11_Interface
                 Console.WriteLine(cars[i].ToString());
             }
 
-            
+
             Car car1 = new Car() { Name = "Cadillac", Price = 6000 };
             car1.Radio.Type = "FM";
             Car carClone = (Car)car1.Clone();
@@ -32,6 +32,22 @@ namespace Lesson11_Interface
             car1.Radio.Type = "AM";
             Console.WriteLine(car1);
             Console.WriteLine(carClone);
+
+            ICloneable[] iCar =
+                { new Car() { Name = "Volvo", Price = 10000 },
+                new Car() { Name = "DAF", Price = 15000 },
+                new Car() { Name = "Renault", Price = 16000 } };
+
+            Console.WriteLine(iCar.ToString());
+            Console.WriteLine(iCar[0].ToString());
+            Console.WriteLine(iCar[1].ToString());
+            Console.WriteLine(iCar[2].ToString());
+            
+            IBase car2 = new Car() { Name = "Buick", Price = 26000 };
+            Console.WriteLine(car2.Work());
+            IDerived car3 = new Car() { Name = "Volkswagen", Price = 24000 };
+            Console.WriteLine(car2.Work());
+
         }
 
 

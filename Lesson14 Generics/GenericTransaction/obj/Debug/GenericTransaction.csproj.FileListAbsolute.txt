@@ -1,0 +1,12 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\bin\Debug\GenericTransaction.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\obj\Debug\GenericTransaction.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\bin\Debug\GenericTransaction.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\bin\Debug\GenericTransaction.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\obj\Debug\GenericTransaction.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\obj\Debug\GenericTransaction.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\bin\Debug\GenericTransaction.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\obj\Debug\GenericTransaction.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\obj\Debug\GenericTransaction.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\bin\Debug\GenericTransaction.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\bin\Debug\GenericTransaction.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson14 Generics\GenericTransaction\obj\Debug\GenericTransaction.csprojResolveAssemblyReference.cache
