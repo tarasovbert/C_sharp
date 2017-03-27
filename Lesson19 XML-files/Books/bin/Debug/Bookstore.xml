@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+  <book category="PROGRAMMING">
+    <title lang="ru" >Язык С# 4.0</title>
+    <author>Г. Шилдт</author>
+    <year>2014</year>
+    <price>50.00</price>
+  </book>
+  <book category="PROGRAMMING ">
+    <title lang="ru" > .NET</title>
+    <author>Э. Троелсен</author>
+    <year>2013</year>
+    <price>60.99</price>
+  </book>
+  <book category="WEB">
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2010</year>
+    <price>39.95</price>
+  </book>
+</bookstore>

@@ -6,3 +6,11 @@ D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\LoggerDLL.pd
 D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\LoggerApp.csprojResolveAssemblyReference.cache
 D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\Logger.exe
 D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\Logger.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\Logger.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\Logger.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\Logger.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\Logger.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\Logger.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\LoggerDLL.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\bin\Debug\LoggerDLL.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Logger\obj\Debug\LoggerApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Files Demo\bin\Debug\Files Demo.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Files Demo\bin\Debug\Files Demo.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Files Demo\bin\Debug\Files Demo.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Files Demo\obj\Debug\Files Demo.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Files Demo\obj\Debug\Files Demo.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\Files Demo\obj\Debug\Files Demo.pdb

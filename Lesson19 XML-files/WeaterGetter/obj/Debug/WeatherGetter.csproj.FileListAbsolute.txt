@@ -1,0 +1,4 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\WeaterGetter\bin\Debug\WeaterGetter.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\WeaterGetter\bin\Debug\WeaterGetter.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\WeaterGetter\obj\Debug\WeaterGetter.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\WeaterGetter\obj\Debug\WeaterGetter.pdb

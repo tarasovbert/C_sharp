@@ -25,16 +25,15 @@ namespace Logger
         public static void Write(string userName, TypeAction type, string message)
         {
             DateTime date = DateTime.Now;
-            string info = String.Format("{0} {1} {2} {3} {4} {5}",
-                                        date.ToString("dd.MM.yyyy"),
-                                        date.ToString("HH:mm:ss"),
+            string info = String.Format("{0} {1} {2} {3} {4}",
+                                        date.ToString("dd.MM.yyyy. HH:mm:ss."),
                                         userName,
                                         type,
                                         message, Environment.NewLine);
 
             StringBuilder strBuilder = new StringBuilder(pattern);
             strBuilder.Replace("[UserName]", userName);
-            strBuilder.Replace("[Data]", date.ToString("dd.MM.yyyy"));
+            strBuilder.Replace("[Data]", date.ToString("dd.MM.yyyy. HH:mm:ss."));
             strBuilder.Replace("[Message]", message);
             strBuilder.Append(Environment.NewLine);
 

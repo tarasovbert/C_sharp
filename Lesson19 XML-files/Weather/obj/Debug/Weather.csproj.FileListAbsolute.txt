@@ -3,3 +3,11 @@ D:\Tarasov\C#\Code\C_sharp\Lesson19\Weather\bin\Debug\Weather.exe
 D:\Tarasov\C#\Code\C_sharp\Lesson19\Weather\bin\Debug\Weather.pdb
 D:\Tarasov\C#\Code\C_sharp\Lesson19\Weather\obj\Debug\Weather.exe
 D:\Tarasov\C#\Code\C_sharp\Lesson19\Weather\obj\Debug\Weather.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\bin\Debug\Weather.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\obj\Debug\Weather.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\obj\Debug\Weather.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\bin\Debug\Weather.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\bin\Debug\Weather.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\bin\Debug\WeaterGetter.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\bin\Debug\WeaterGetter.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache

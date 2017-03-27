@@ -1,0 +1,5 @@
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\bin\Release\Lesson19.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\bin\Release\Lesson19.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\bin\Release\Lesson19.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\obj\Release\Lesson19.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\obj\Release\Lesson19.pdb

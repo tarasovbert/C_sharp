@@ -2,3 +2,8 @@ D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\bin\Debug\LoggerDLL
 D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\bin\Debug\LoggerDLL.pdb
 D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\obj\Debug\LoggerDLL.dll
 D:\Tarasov\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\obj\Debug\LoggerDLL.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\bin\Debug\LoggerDLL.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\bin\Debug\LoggerDLL.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\obj\Debug\LoggerDLL.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\obj\Debug\LoggerDLL.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson17 Files. Streams\LoggerDLL\obj\Debug\LoggerDLL.pdb

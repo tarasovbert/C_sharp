@@ -12,10 +12,11 @@ namespace Lesson19
         static void Main(string[] args)
         {
             string url = @"http://www.nbrb.by/Services/XmlExRates.aspx";
-            XDocument xmlDoc = XDocument.Load(url);
-            int countCourse = xmlDoc.Root.Elements().Count();
+            XDocument docXml = XDocument.Load(url);
+                        
+           // int countCourse = docXml.Root.Elements().Count();
 
-            foreach(var item in xmlDoc.Root.Elements())
+            foreach(var item in docXml.Root.Elements())
             {
                 string info = String.Format("Currency: {0} - {1}. Scale: {2,-6:N2} to {3,6} {4}",
                     item.Element("NumCode").Value,

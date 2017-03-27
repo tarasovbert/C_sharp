@@ -3,3 +3,9 @@ D:\Tarasov\C#\Code\C_sharp\Lesson19\Lesson19\bin\Debug\Lesson19.exe
 D:\Tarasov\C#\Code\C_sharp\Lesson19\Lesson19\bin\Debug\Lesson19.pdb
 D:\Tarasov\C#\Code\C_sharp\Lesson19\Lesson19\obj\Debug\Lesson19.exe
 D:\Tarasov\C#\Code\C_sharp\Lesson19\Lesson19\obj\Debug\Lesson19.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\bin\Debug\Lesson19.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\obj\Debug\Lesson19.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\obj\Debug\Lesson19.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\bin\Debug\Lesson19.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\bin\Debug\Lesson19.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson19 XML-files\Lesson19\obj\Debug\Currency.csprojResolveAssemblyReference.cache

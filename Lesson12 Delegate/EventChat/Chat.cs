@@ -8,9 +8,10 @@ namespace EventChat
 {
     public delegate void EventHandler(int number, string message);
     class Chat
-    {        
+    {
         User[] users;
         EventHandler ChatEvent = EventCatcher;
+        DateTime now;
 
         public Chat(int quantity)
         {
@@ -29,10 +30,12 @@ namespace EventChat
                 throw new ArgumentOutOfRangeException("There's no such user!");
             EventOccured(number, message);
         }
-        
+
         public void EventOccured(int number, string message)
         {
-            ChatEvent?.Invoke(number, String.Format("User number {0} send message: \"{1}\".", number, message));
+            System.Threading.Thread.Sleep(500);
+            now = DateTime.Now;
+            ChatEvent?.Invoke(number, String.Format("User number {0} send message: \"{1}\".{2}", number, message, now.ToString("yyyy/MM/dd. HH:mm:ss.ffff")));
         }
 
         static void EventCatcher(int number, string message)
