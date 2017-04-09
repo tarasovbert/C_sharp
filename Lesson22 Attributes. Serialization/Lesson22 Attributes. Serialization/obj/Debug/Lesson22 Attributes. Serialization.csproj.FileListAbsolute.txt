@@ -1,0 +1,11 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\bin\Debug\Lesson22_Attributes.Serialization.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\bin\Debug\Lesson22_Attributes.Serialization.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\bin\Debug\Lesson22_Attributes.Serialization.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\obj\Debug\Lesson22_Attributes.Serialization.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\obj\Debug\Lesson22_Attributes.Serialization.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\bin\Debug\Lesson22_Attributes.Serialization.exe.config
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\obj\Debug\Lesson22_Attributes.Serialization.exe
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\obj\Debug\Lesson22_Attributes.Serialization.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\bin\Debug\Lesson22_Attributes.Serialization.exe
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\bin\Debug\Lesson22_Attributes.Serialization.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Lesson22 Attributes. Serialization\obj\Debug\Lesson22 Attributes. Serialization.csprojResolveAssemblyReference.cache

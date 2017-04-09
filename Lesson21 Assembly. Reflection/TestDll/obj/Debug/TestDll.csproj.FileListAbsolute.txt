@@ -1,0 +1,4 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\TestDll\bin\Debug\TestDll.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\TestDll\bin\Debug\TestDll.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\TestDll\obj\Debug\TestDll.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\TestDll\obj\Debug\TestDll.pdb

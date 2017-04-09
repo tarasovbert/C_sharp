@@ -1,0 +1,10 @@
+F:\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\bin\Debug\Class Libraries.dll
+F:\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\bin\Debug\Class Libraries.pdb
+F:\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\obj\Debug\Class Libraries.csprojResolveAssemblyReference.cache
+F:\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\obj\Debug\Class Libraries.dll
+F:\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\obj\Debug\Class Libraries.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\obj\Debug\Class Libraries.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\obj\Debug\Class Libraries.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\obj\Debug\Class Libraries.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\bin\Debug\Class Libraries.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Class Libraries\bin\Debug\Class Libraries.pdb

@@ -1,0 +1,22 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.pdb
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.exe.config
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.exe
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.pdb
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.exe
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.pdb
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Class Libraries.dll
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Class Libraries.pdb
+F:\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\obj\Debug\Lesson23 Quiz.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Lesson23 Quiz.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Class Libraries.dll
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson23 Quiz\Lesson23 Quiz\bin\Debug\Class Libraries.pdb

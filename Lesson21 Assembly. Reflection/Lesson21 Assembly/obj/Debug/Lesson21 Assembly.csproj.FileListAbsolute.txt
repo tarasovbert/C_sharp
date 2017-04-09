@@ -1,0 +1,24 @@
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.exe.config
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\TestDll.dll
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\TestDll.pdb
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.csprojResolveAssemblyReference.cache
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.exe
+D:\Tarasov\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.pdb
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.exe.config
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.exe
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.pdb
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.exe
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.pdb
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\TestDll.dll
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\bin\Debug\TestDll.pdb
+f:\C#\Code\C_sharp\Lesson21 Assembly\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.exe.config
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.exe
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.exe
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\bin\Debug\Lesson21 Assembly.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\bin\Debug\TestDll.dll
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\bin\Debug\TestDll.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson21 Assembly. Reflection\Lesson21 Assembly\obj\Debug\Lesson21 Assembly.csprojResolveAssemblyReference.cache

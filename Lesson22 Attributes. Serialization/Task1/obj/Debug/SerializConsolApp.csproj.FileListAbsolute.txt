@@ -1,0 +1,6 @@
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Task1\obj\Debug\SerializConsolApp.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Task1\bin\Debug\Task1.exe.config
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Task1\bin\Debug\Task1.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Task1\bin\Debug\Task1.pdb
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Task1\obj\Debug\Task1.exe
+D:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\Task1\obj\Debug\Task1.pdb

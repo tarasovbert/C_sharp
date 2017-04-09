@@ -1,0 +1,5 @@
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\PC\bin\Debug\PC.dll
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\PC\bin\Debug\PC.pdb
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\PC\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\PC\obj\Debug\PC.dll
+d:\Study\IT Academy Step\C#\Code\C_sharp\Lesson22 Attributes. Serialization\PC\obj\Debug\PC.pdb
